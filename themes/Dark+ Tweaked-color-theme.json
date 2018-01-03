@@ -50,7 +50,8 @@
 			"name": "",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#608b4e"
+				"foreground": "#608b4e",
+				"fontStyle": "italic"
 			}
 		},
 		{
