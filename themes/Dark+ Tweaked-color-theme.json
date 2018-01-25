@@ -1,22 +1,24 @@
 {
 	"type": "dark",
 	"colors": {
-		"statusBar.foreground": "#ffffff55",
-		"activityBar.foreground": "#ffffff55",
-		"editorIndentGuide.background": "#ffffff0c",
-		"titleBar.activeBackground": "#252526",
-		"tab.inactiveBackground": "#252526",
 		"activityBar.background": "#252526",
-		"statusBar.background": "#252526",
-		"scrollbar.shadow": "#00000022",
-		"widget.shadow": "#00000022",
-		"list.dropBackground": "#383b3d",
+		"activityBar.foreground": "#ffffff55",
+		"activityBarBadge.background": "#007acc",
 		"editor.background": "#1e1e1e",
 		"editor.foreground": "#d4d4d4",
 		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.selectionHighlightBackground": "#add6ff26",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editorIndentGuide.background": "#ffffff0c",
+		"list.dropBackground": "#383b3d",
+		"scrollbar.shadow": "#00000022",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"statusBar.background": "#252526",
+		"statusBar.foreground": "#ffffff55",
+		"tab.inactiveBackground": "#252526",
+		"tab.unfocusedHoverBackground": "#1E1E1E",
+		"titleBar.activeBackground": "#252526",
+		"widget.shadow": "#00000022",
+        "tab.hoverBackground": "#1E1E1E"
 	},
 	"tokenColors": [
 		{
