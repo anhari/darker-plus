@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/perragnar/dark-plus-tweaked"
     },
-    "version": "0.0.3",
+    "version": "0.0.4",
     "preview": true,
     "publisher": "perragnaredin",
     "galleryBanner": {
@@ -26,12 +26,10 @@
         "dark"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Dark+ Tweaked",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark+ Tweaked-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Dark+ Tweaked",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Dark+ Tweaked-color-theme.json"
+        }]
     }
 }
