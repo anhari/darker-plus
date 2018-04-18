@@ -19,7 +19,7 @@
 		"titleBar.activeBackground": "#252526",
 		"widget.shadow": "#00000022",
 		"tab.hoverBackground": "#1E1E1E",
-		"editorActiveLineNumber.foreground": "#ffffffaa"
+		"editorLineNumber.activeForeground": "#ffffffaa"
 	},
 	"tokenColors": [
 		{
