@@ -9,6 +9,7 @@
 		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.selectionHighlightBackground": "#add6ff26",
 		"editorIndentGuide.background": "#ffffff0c",
+		"editorIndentGuide.activeBackground": "#ffffff33",
 		"list.dropBackground": "#383b3d",
 		"scrollbar.shadow": "#00000022",
 		"sideBarTitle.foreground": "#bbbbbb",
