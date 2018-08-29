@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.7]
+
+- Changed the color of the status bar when no folder is opened. Thanks [Śubham](https://github.com/subhammridha). [\[#1\]](https://github.com/perragnar/dark-plus-tweaked/issues/1)
+
 ## [0.0.6]
 
 - Added support for guided indent guides.

@@ -20,10 +20,10 @@
 		"titleBar.activeBackground": "#252526",
 		"widget.shadow": "#00000022",
 		"tab.hoverBackground": "#1E1E1E",
-		"editorLineNumber.activeForeground": "#ffffffaa"
+		"editorLineNumber.activeForeground": "#ffffffaa",
+		"statusBar.noFolderBackground": "#252526"
 	},
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"settings": {
 				"foreground": "#d4d4d4ff",
 				"background": "#1e1e1eff"
