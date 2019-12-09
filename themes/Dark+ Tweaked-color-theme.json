@@ -10,7 +10,6 @@
 		"editorCursor.foreground": "#cfa738",
 		"editorCursor.background": "#57430e",
 		"statusBar.background": "#181818",
-		"statusBar.foreground": "#949494",
 		"sideBar.background": "#1b1b1b",
 		"panel.background": "#1b1b1b",
 		"activityBar.background": "#181818",
@@ -45,6 +44,11 @@
 		"statusBar.noFolderBackground": "#252526",
 		"tab.hoverBackground": "#3A83D011",
 		"tab.activeModifiedBorder": "#ff3c0088",
+		"peekViewEditor.background": "#181818",
+		"peekViewResult.background": "#1B1B1B",
+		"peekView.border": "#007ACC00",
+		"peekViewTitle.background": "#007ACC",
+		"peekViewEditorGutter.background": "#1B1B1B",
 	},
 	"tokenColors": [{
 			"settings": {
