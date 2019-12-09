@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.10]
+
+- More tweaks.
+
 ## [0.0.9]
 
 - Minor tweaks.

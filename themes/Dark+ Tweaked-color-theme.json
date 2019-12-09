@@ -1,9 +1,12 @@
 {
 	"type": "dark",
 	"colors": {
+		"statusBar.foreground": "#646464",
+		"sideBar.foreground": "#ffffff88",
+		"tree.indentGuidesStroke": "#ffffff11",
+		"gitDecoration.ignoredResourceForeground": "#ffffff1a",
 		"editor.lineHighlightBackground": "#ffffff08",
 		"editorIndentGuide.activeBackground": "#ffffff11",
-		"tree.indentGuidesStroke": "#ffffff22",
 		"editorCursor.foreground": "#cfa738",
 		"editorCursor.background": "#57430e",
 		"statusBar.background": "#181818",
