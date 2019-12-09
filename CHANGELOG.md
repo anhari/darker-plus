@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.9]
+
+- Minor tweaks.
+
 ## [0.0.8]
 
 - Color overhaul. Maybe time to create a new theme?
