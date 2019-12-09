@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.12]
+
+- Update to latest Dark+ (default dark) tokenColors.
+
 ## [0.0.11]
 
 - Peek view colors.
