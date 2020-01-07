@@ -15,6 +15,7 @@
 		"activityBar.background": "#181818",
 		"activityBar.foreground": "#949494",
 		"editorGroupHeader.tabsBackground": "#1E1E1E",
+		"breadcrumb.background": "#3A83D011",
 		"tab.inactiveBackground": "#1E1E1E",
 		"tab.inactiveForeground": "#949494",
 		"tab.activeBackground": "#3A83D011",

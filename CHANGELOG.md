@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.13]
+
+- Update breadbrumbs bar background color.
+
 ## [0.0.12]
 
 - Update to latest Dark+ (default dark) tokenColors.
