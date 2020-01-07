@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.14]
+
+- Lower gutter line number contrast
+
 ## [0.0.13]
 
 - Update breadbrumbs bar background color.

@@ -20,6 +20,7 @@
 		"tab.inactiveForeground": "#949494",
 		"tab.activeBackground": "#3A83D011",
 		"tab.activeBorderTop": "#3A83D0",
+		"editorLineNumber.foreground": "#ffffff11",
 		"tab.border": "#181818",
 		"sideBar.border": "#181818",
 		"editorGroup.border": "#181818",
