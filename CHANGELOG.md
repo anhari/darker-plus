@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.1]
+
+- Update marketplace banner color to reflect the dark theme.
+
 ## [1.0.0]
 
 - Rereleasing the theme.

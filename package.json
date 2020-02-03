@@ -6,10 +6,10 @@
         "type": "git",
         "url": "https://github.com/perragnar/dark-plus-tweaked"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "perragnaredin",
     "galleryBanner": {
-        "color": "#c0d2e4",
+        "color": "#1e1e1e",
         "theme": "dark"
     },
     "icon": "images/logo.png",
