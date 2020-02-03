@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.0]
+
+- Rereleasing the theme.
+- Just a minor tweak to `editorPane.background`.
+- Update the screenshot.
+- Update readme.
+
 ## [0.0.15]
 
 - Italic comments.
